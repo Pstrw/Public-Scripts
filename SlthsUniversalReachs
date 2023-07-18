@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/Pstrw/3c489bebb942ad2bdeb8fd75c2fa4ed2/raw/e01bd1ca76a787bc9c86867197b532a55a71579c/ur"))();
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Pstrw/3c489bebb942ad2bdeb8fd75c2fa4ed2/raw/2307aac0e78094b6a343c4c4afe9aac5b54ef269/ur"))();
 
 local UserInputService = game:GetService("UserInputService")
 local gui
