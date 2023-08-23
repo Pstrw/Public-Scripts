@@ -80,7 +80,7 @@ q.RenderStepped:Connect(function()
                                 u.Character:FindFirstChildOfClass("Tool"):Activate()
 
                                 local z = (u.Character.HumanoidRootPart.Position - y.Character.HumanoidRootPart.Position).Magnitude
-                                local A = z / tonumber(49)
+                                local A = z / tonumber(45)
 
                                 local B = r:Create(u.Character.HumanoidRootPart, TweenInfo.new(A, Enum.EasingStyle.Linear, Enum.EasingDirection.In), {CFrame = y.Character.HumanoidRootPart.CFrame * CFrame.new(-1.4, 0.5, 3.4)})
 
